@@ -8,6 +8,12 @@ https://github.com/Seraphim19119/Tanks-Wot-blitz-with-NVIDIA-Freestyle
 3. запустите этот файл.
 4. Выберите ваш лаунчер (Леста/Стим)
 5. Настраиваем фильтр и играем :)
+P.s дальнейшие запуски игры можно проводить прямо из лаунчера, консоль будет сама закрываться через 5 секунд.
+
+
+---ВАЖНО---
+После обновления вам нужно будет снова распаковать exe файл в папку с игрой
+
 
 Вот мои настройки:
 Первым добавляем экспозиция / контраст:
@@ -32,8 +38,11 @@ https://github.com/Seraphim19119/Tanks-Wot-blitz-with-NVIDIA-Freestyle
 2. move the downloaded file to the game folder.
 3. run this file.
 4. Choose your launcher (Lesta/Steam)
-5.
-Set up a filter and play :)
+5.Set up a filter and play :)
+P.s further launches of the game can be carried out directly from the launcher, the console will close itself after 5 seconds.
+
+---IMPORTANT---
+After the update, you will need to unpack the exe file again into the game folder
 
 Here are my settings:
 First add exposure/contrast:
